@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "ftblag.customtooltip.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinItemStack"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "customtooltip",
+  "name": "Custom ToolTip",
+  "description": "Simple mod for add custom tooltips for any items!",
+  "version": "1.0.0",
+  "side": "client",
+  "initializer": "ftblag.customtooltip.CustomToolTip",
+  "mixins": {
+    "client": "customtooltip.client.json"
+  }
+}
